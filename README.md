@@ -1,8 +1,8 @@
 # LabelImg Notes
 Since the original installation instructions on [lebalImg](https://github.com/tzutalin/labelImg) repository might not work for brand new Mac, I wrote this additional note to guide you for setting up [lebalImg](https://github.com/tzutalin/labelImg) on a brand now Mac.
 
-**Author:** Chenrui Lei (chenrui@ualberta.ca)
-**Date:** July 5th, 2018
+- **Author:** Chenrui Lei (chenrui@ualberta.ca)
+- **Date:** July 5th, 2018
 
 # Tools
 
